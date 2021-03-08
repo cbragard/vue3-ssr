@@ -1,0 +1,5 @@
+build
+data
+docker/.env_dev
+docker/.env_prod
+node_modules
